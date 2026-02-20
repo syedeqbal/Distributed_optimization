@@ -1,5 +1,4 @@
-The paper proposes a federated multi-agent system is a multi-agent
-system wherein agents collaborate with a central server to
+The paper proposes a federated multi-agent system wherein agents collaborate with a central server to
 optimize system goals without sharing their private information.
 We develop a communication-efficient solution to resource
 allocation problems for a population of agents coupled through
