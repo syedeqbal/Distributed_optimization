@@ -1,6 +1,6 @@
 The paper proposes a federated multi-agent system wherein agents collaborate with a central server to
 optimize system goals without sharing their private information.
-We develop a communication-efficient solution to resource
+It presents a communication-efficient solution to resource
 allocation problems for a population of agents coupled through
 multiple indivisible shared resources in a federated multi-
 agent system. The agents demand resources in a probabilistic
