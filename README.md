@@ -17,5 +17,5 @@ stochastic approximation techniques and an example of electric
 vehicle charging point allocation illustrating the efficacy of the
 developed solution.
 
-##Citation
+## Citation
 S. E. Alam and D. Shukla, "Communication-Efficient Allocation of Multiple Indivisible Resources in a Federated Multi-Agent System," 2023 62nd IEEE Conference on Decision and Control (CDC), Singapore, Singapore, 2023, pp. 5279-5285, doi: 10.1109/CDC49753.2023.10384067.
