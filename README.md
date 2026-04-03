@@ -1,4 +1,7 @@
-## Communication-efficient Allocation of Multiple Indivisible Resources in a Federated Multi-agent System
+# Communication-efficient Allocation of Multiple Indivisible Resources in a Federated Multi-agent System
+
+[![IEEE CDC 2023](https://img.shields.io/badge/IEEE%20CDC-2023-0033A0.svg)](https://doi.org/10.1109/CDC49753.2023.10384067)
+
 ## Abstract
 The paper proposes a federated multi-agent system wherein agents collaborate with a central server to
 optimize system goals without sharing their private information.
